@@ -2,7 +2,7 @@ body{
 	margin: 0px;
 	text-align: center;
 	font-family: 'Merriweather', serif;
-	background-color:#d4ebd0;
+	
 }
 
 h1{
@@ -30,6 +30,7 @@ h3{
 
 	position: relative;
 	padding-top: 100px;
+	background-color:#d4ebd0;
 	}
 
 
