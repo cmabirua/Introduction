@@ -39,7 +39,9 @@ h3{
     top: 50px;
 }
 
-
+.middle-container{
+	background-color: white;
+}
 .bottom-cloud{
 	position: absolute;
 	left: 300px;
